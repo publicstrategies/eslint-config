@@ -1,0 +1,21 @@
+{
+  "name": "@psdevs/eslint-config",
+  "version": "1.0.1",
+  "description": "ESLint config for frontend projects 🔴",
+  "main": "index.json",
+  "files": [
+    "assets/banner.png"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/psdevs/eslint-config.git"
+  },
+  "contributors": [
+    "Chris Vandenberg <chris@altruisticsoftware.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/psdevs/eslint-config/issues"
+  },
+  "homepage": "https://gitlab.com/psdevs/eslint-config#readme"
+}
