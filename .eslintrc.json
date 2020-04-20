@@ -20,6 +20,8 @@
   },
   "ignorePatterns": ["**/*.js", "next-env.d.ts"],
   "rules": {
+    "arrow-parens": 0,
+    "react/jsx-one-expression-per-line": 0,
     "sort-destructure-keys/sort-destructure-keys": 2,
     "typescript-sort-keys/interface": 2,
     "typescript-sort-keys/string-enum": 2,
