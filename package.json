@@ -1,6 +1,6 @@
 {
   "name": "@psdevs/eslint-config",
-  "version": "3.1.0",
+  "version": "3.1.1",
   "description": "ESLint config for frontend projects 🔴",
   "main": "index.js",
   "repository": {
